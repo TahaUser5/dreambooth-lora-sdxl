@@ -168,8 +168,7 @@ SD 1.5 (failed geometry) → SDXL Base (generic plushie) → SDXL + LoRA (exact 
 2. Enable GPU accelerator (T4 x2 recommended)
 3. Add your HuggingFace token as a Kaggle secret named `HF_TOKEN`
 4. Run cells 1–8 sequentially for full training
-5. Run cells 10–18 for inference and evaluation
-6. Delete cells 9, 13, and 19 (duplicates/empty) before submission
+5. Run cells 9–16 for inference and evaluation
 
 ### Environment
 ```
