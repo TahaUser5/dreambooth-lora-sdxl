@@ -197,10 +197,7 @@ PEFT:         >=0.17.0
 
 ## 👤 Author
 
-**[Your Name]**
-BS Computer Science — [Your University Name]
-Final Year Project | [Year]
-
+**Taha Tanvir**
 ---
 
 ## 📄 License
